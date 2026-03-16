@@ -1,6 +1,3 @@
-# CiscoUCCX-CiscoUCCE-PhoneBar
-Cisco UCCX/UCCE Phone Bar is a core solution built for enterprise-level call centers, which can seamlessly integrate with Cisco UCCX/UCCE systems to achieve complete customer service center functions and ticket management systems.
-
 # 思科 UCCX/UCCE 话务条解决方案 | Cisco UCCX/UCCE Phone Bar Solution
 ![License](https://img.shields.io/badge/license-Commercial-blue)
 ![Language](https://img.shields.io/badge/technology-Call%20Center-orange)
@@ -21,22 +18,14 @@ We provide complete front-end and back-end source code. Enterprises can carry ou
 ### 基础话务功能 | Basic Telephony Functions
 - 📞 来电弹屏、呼叫转移、挂机、保持、静音 | Caller ID pop-up, call transfer, hang up, hold, mute
 - 📊 实时通话状态监控、坐席状态管理 | Real-time call status monitoring, agent status management
-- 📜 通话记录自动留存、多维度检索 | Automatic call record retention, multi-dimensional retrieval
 
 ### 工单系统集成 | Ticket System Integration
 - 🔗 通话与工单联动，一键创建/关联工单 | Call and ticket linkage, one-click creation/association of tickets
-- 📝 工单状态同步更新，全程可追溯 | Real-time ticket status update, full-process traceability
-- 🚨 异常工单自动提醒，提升处理效率 | Automatic reminder for abnormal tickets, improve processing efficiency
+
 
 ### 坐席管理 | Agent Management
 - 🟢 多状态切换（在线/离线/休息/忙碌） | Multi-status switching (Online/Offline/Break/Busy)
 - 📈 坐席绩效数据统计 | Agent performance data statistics
-- 🔧 自定义权限配置，精细化管理 | Custom permission configuration, refined management
-
-### 数据分析 | Data Analysis
-- 📊 话务量、接通率、通话时长等多维度报表 | Multi-dimensional reports on call volume, answer rate, call duration, etc.
-- 📉 实时监控大屏，可视化展示 | Real-time monitoring dashboard, visual display
-- 📥 数据导出，支持第三方分析工具对接 | Data export, support integration with third-party analysis tools
 
 ### 系统特性 | System Features
 - 🔌 无缝对接思科 UCCX/UCCE 原生接口 | Seamless integration with Cisco UCCX/UCCE native APIs
@@ -46,13 +35,13 @@ We provide complete front-end and back-end source code. Enterprises can carry ou
 
 ## 🎯 适配环境 | Compatibility
 ### 中文
-- 思科 UCCX 10.0+ / UCCE 11.0+
+- 思科 Cisco UCCX / Cisco UCCE
 - 主流操作系统（Windows Server/Linux）
 - 兼容主流浏览器（Chrome/Firefox/Edge）
 - 支持主流工单系统集成（可定制）
 
 ### English
-- Cisco UCCX 10.0+ / UCCE 11.0+
+- Cisco UCCX  / Cisco UCCE 
 - Mainstream operating systems (Windows Server/Linux)
 - Compatible with mainstream browsers (Chrome/Firefox/Edge)
 - Support integration with mainstream ticket systems (customizable)
@@ -64,7 +53,7 @@ We provide complete front-end and back-end source code. Enterprises can carry ou
 - 包含内容：
   ✅ 完整前后端源代码
   ✅ 详细部署文档 + 使用手册
-  ✅ 3个月技术支持与对接指导
+  ✅ 1个月技术支持与对接指导
   ✅ 无限制二次开发权限
   ✅ 终身免费版本更新
 
@@ -73,7 +62,7 @@ We provide complete front-end and back-end source code. Enterprises can carry ou
 - Included:
   ✅ Complete front-end and back-end source code
   ✅ Detailed deployment documents + user manuals
-  ✅ 3 months of technical support and integration guidance
+  ✅ 1 months of technical support and integration guidance
   ✅ Unlimited secondary development rights
   ✅ Lifetime free version updates
 
@@ -97,29 +86,21 @@ We provide complete front-end and back-end source code. Enterprises can carry ou
 - 存储：100GB及以上 | Storage: 100GB and above
 - 网络：可访问思科 UCCX/UCCE 服务器 | Network: Access to Cisco UCCX/UCCE server
 
-### 软件环境 | Software Environment
-- JDK 1.8+ / .NET Framework 4.8+（根据实际技术栈调整） | JDK 1.8+ / .NET Framework 4.8+ (adjust according to actual technology stack)
-- 数据库：MySQL 8.0+ / SQL Server 2019+ | Database: MySQL 8.0+ / SQL Server 2019+
-- Web服务器：Tomcat 9.0+ / Nginx 1.20+ | Web Server: Tomcat 9.0+ / Nginx 1.20+
 
 ## 📞 联系我们 | Contact Us
 ### 中文
-- 邮箱：[你的联系邮箱]
-- 电话：[你的联系电话]
-- 官网：[你的产品官网地址]
-- 地址：[你的公司地址（可选）]
+- 邮箱：leehear@gmail.com
+- 官网：www.ciscouccx.com  www.ciscoucce.com
 
 ### English
-- Email: [Your Contact Email]
-- Phone: [Your Contact Phone]
-- Official Website: [Your Product Official Website]
-- Address: [Your Company Address (Optional)]
+- Email: leehear@gmail.com
+- Official Website: www.ciscouccx.com  www.ciscoucce.com
 
 ## 📝 版权声明 | Copyright Notice
 ### 中文
-© 2025 本产品为商业授权软件，未经授权不得私自传播、售卖。
+© 2026 本产品为商业授权软件，未经授权不得私自传播、售卖。
 购买授权后，仅限授权企业内部使用，禁止二次分发。
 
 ### English
-© 2025 This product is commercial licensed software, unauthorized distribution and resale are prohibited.
+© 2026 This product is commercial licensed software, unauthorized distribution and resale are prohibited.
 After purchasing the license, it is only for internal use by the licensed enterprise, and secondary distribution is prohibited.
